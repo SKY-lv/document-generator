@@ -1,0 +1,10 @@
+{
+  "name": "document-generator",
+  "version": "1.0.0",
+  "description": "Document Generator - Contract, report, proposal generation",
+  "author": "SKY-lv",
+  "license": "MIT",
+  "keywords": ["document", "template", "generation", "ai-agent", "openclaw"],
+  "repository": "https://github.com/SKY-lv/document-generator",
+  "main": "SKILL.md"
+}
